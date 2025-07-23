@@ -41,7 +41,7 @@ O JDK é essencial para o desenvolvimento de aplicações em Java.
 
 ### 2. IntelliJ IDEA Community Edition
 
-Uma IDE (Ambiente de Desenvolvimento Integrado) robusta para desenvolvimento em Java.
+Uma IDE para o Java.
 
 #### 2.1. Download
 
@@ -58,7 +58,7 @@ Uma IDE (Ambiente de Desenvolvimento Integrado) robusta para desenvolvimento em 
 
 ### 3. Visual Studio Code (VS Code)
 
-Um editor de código-fonte leve e poderoso, ideal para desenvolvimento front-end.
+Uma IDE para o front-end.
 
 #### 3.1. Download
 
