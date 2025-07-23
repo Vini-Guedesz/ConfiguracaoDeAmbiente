@@ -1,7 +1,5 @@
 # Documentação de Ambiente de Trabalho
 
-Este documento descreve o processo de instalação e configuração do ambiente de desenvolvimento para projetos que utilizam Java com IntelliJ IDEA e desenvolvimento front-end com Vue.js, Node.js e Visual Studio Code.
-
 ## Sumário
 
 1.  [Java Development Kit (JDK) 21](#1-java-development-kit-jdk-21)
